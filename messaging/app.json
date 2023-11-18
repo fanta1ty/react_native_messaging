@@ -3,9 +3,11 @@
     "name": "messaging",
     "slug": "messaging",
     "version": "1.0.0",
-    "assetBundlePatterns": [
-      "**/*"
-    ]
+    "assetBundlePatterns": ["**/*"]
   },
-  "name": "messaging"
+  "name": "messaging",
+  "androidStatusBar": {
+    "barStyle": "dark-content",
+    "backgroundColor": "#FFFFFF"
+  }
 }

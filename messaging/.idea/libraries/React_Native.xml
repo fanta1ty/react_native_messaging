@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="React Native" type="javaScript">
+    <CLASSES />
+    <DOCUMENTATION>
+      <root url="https://github.com/DefinitelyTyped/DefinitelyTyped/tree/master/types/react-native/Libraries" />
+    </DOCUMENTATION>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
